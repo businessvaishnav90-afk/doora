@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "zustand": "^5.0.15"
+  }
+}

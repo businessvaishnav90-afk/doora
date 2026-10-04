@@ -1,0 +1,11 @@
+{
+  "appId": "com.doora.worker",
+  "appName": "Doora Worker",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}
